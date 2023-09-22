@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (py3.8_torch)" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="4230" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/lex-bert-bilstm-crf/data_process.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1200" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/lex-bert-bilstm-crf/dataset.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1262" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/lex-bert-bilstm-crf/detector.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="40760" />
+          <option name="fileUrl" value="file://$USER_HOME$/.conda/envs/py3.8_torch/lib/python3.8/site-packages/transformers/models/bert/modeling_bert.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="4668" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/tools/label.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="124162" />
+          <option name="fileUrl" value="file://$USER_HOME$/.conda/envs/py3.8_torch/lib/python3.8/site-packages/transformers/modeling_utils.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="6" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/datasets/industrial/slots.json" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1243" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/datasets/industrial/val.json" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="5619" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/datasets/industrial/train.json" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1564" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/lex-bert-bilstm-crf/model.py" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
